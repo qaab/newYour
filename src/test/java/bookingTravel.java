@@ -17,7 +17,7 @@ public class bookingTravel {
         driver.manage().window().maximize();
         driver.navigate().to("https://www.phptravels.net/");
 
-
+//  brakuje aserrty
     }
 
     @Test
