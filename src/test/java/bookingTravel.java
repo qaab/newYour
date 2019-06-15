@@ -18,6 +18,7 @@ public class bookingTravel {
         driver.navigate().to("https://www.phptravels.net/");
 
 //  brakuje aserrty
+        
     }
 
     @Test
